@@ -1,11 +1,16 @@
-##Tạo file env và cấu hình database
+##Documents
+```bash
+- https://github.com/jeroennoten/Laravel-AdminLTE
+- https://packagist.org/packages/kingdarkness/k-repository
+```
 
-##Chạy lệnh
+##Config .env
+
+##Run
 ```bash
 - composer install
 - php artisan migrate
 - php artisan key:generate
-- php artisan serve
 - php artisan db:seed
 ```
 
